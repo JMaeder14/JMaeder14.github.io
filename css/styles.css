@@ -1,0 +1,25 @@
+
+h2{
+	text-align: center;
+	color: blue;
+	font-family: Cambria;
+	font-size: 60px;
+	text-align: center;
+}
+
+.fleisch img{
+	margin-bottom: 0px;
+	margin-right:0px ;
+}
+.beeren img{
+	margin-top: 200px;
+}
+p{
+	font-size: 20px
+}
+p.link_buttons{
+	text-align: center;
+}
+p.anglerfischmosasaurier{
+	margin-left: 100px
+}
