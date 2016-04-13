@@ -63,3 +63,29 @@ p.anglerfischmosasaurus{
   display: table;
   clear: both;
 }
+
+.fleischblock{
+	/*border: 1px solid black;*/
+	margin: 0 auto;
+	max-width: 800px;
+}
+
+.fleischblock img:first-child{
+	float: left;
+}
+
+.fleischblock img:last-child{
+	float: right;
+}
+
+.fleischblock h2{
+	display: block;
+	float: left;
+	margin: 100px 0 0 20px;
+}
+
+
+
+
+
+
